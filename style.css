@@ -1,0 +1,70 @@
+
+
+h4 {
+    color: darkviolet;
+}
+
+#mainTitle {
+    position: relative;
+    display: block;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 84px;
+    text-align: center;
+    color: darkviolet;
+    margin-top: 50px;
+}
+
+#coinBtn {
+    position: relative;
+    display: block;
+    color: white;
+    border-color: white;
+    left: 50%;
+    right: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 200px;
+    width: 150px;
+    height: 150px;
+}
+
+#coinImg {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.scoreBox {
+    display: inline-block;
+    width: 100%;
+    align-content: center;
+}
+
+.headsColumn {
+    float: left;
+    padding-left: 40%;
+}
+
+.talesColumn {
+    float: right;
+    padding-right: 40%;
+}
+
+#newGame {
+    margin: auto;
+    width: 30%;
+    padding: 10px;
+}
+
+#newGmeBtn {
+    width: 100%;
+    height: 100%;
+    border: none;
+    background-color: lightgray;
+    color: darkviolet;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;   
+}
